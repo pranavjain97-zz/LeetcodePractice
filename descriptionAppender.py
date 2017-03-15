@@ -53,8 +53,8 @@ if __name__ == "__main__":
 	    extension = input("Please give the extension of the fileName (eg: .py): ")
 	    o1 = descriptionAppender(problem, extension)
 	    filename=o1.CamelFilenameConverter()+extension
-        folder=o1.folderFinder()
-        description=o1.getDiscriptionFromLeet()
+            folder=o1.folderFinder()
+            description=o1.getDiscriptionFromLeet()
 	    o1.writeIntoFile(folder,filename,description)
 
 
