@@ -2,26 +2,29 @@
 from bs4 import BeautifulSoup
 import urllib2
 
-input="Fizz Buzz"
-ext=".java"
+input="Replace this with the file name"
+ext="Replace this with the extension"
 
 
 def filenameConverter(string):
     string=string.lower()
     temp=string.split(' ')
-    return temp[0].capitalize() + temp[1].capitalize()
+    newFile=''
+    noOfSpaces=len(temp)
+    for i in range(0,noOfSpaces):
+        newFile+=temp[i].capitalize()
+    return newFile
 
 
-filename = filenameConverter(input) + ext
-
+filename=filenameConverter(input)+ext
 
 if ext==".py":
     commentStart = "'''"
-    commentEnd = "'''"
+    commentEnd = "''' "
     folder = "Python Solutions"
 elif ext == ".java":
     commentStart = "/*"
-    commentEnd = "*/"
+    commentEnd = "*/ "
     folder="Java Solutions"
 else:
     print "File formal does not exist"
