@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41d7ac8d-02ed-4c65-9ed2-1b553dcf02ad" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java Solutions/FindAll NumbersDisappeared.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python Solutions/CountAndSay.py" afterPath="$PROJECT_DIR$/Python Solutions/CountAndSay.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python Solutions/RomanToInteger.py" afterPath="$PROJECT_DIR$/Python Solutions/RomanToInteger.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/descriptionAppender.py" afterPath="$PROJECT_DIR$/descriptionAppender.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,8 +34,8 @@
       <file leaf-file-name="descriptionAppender.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/descriptionAppender.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+            <state relative-caret-position="250">
+              <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -468,7 +465,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1102" extended-state="6" />
+    <frame x="-11" y="-11" width="1942" height="1102" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -584,8 +581,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/descriptionAppender.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        <state relative-caret-position="250">
+          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
           <folding />
         </state>
       </provider>

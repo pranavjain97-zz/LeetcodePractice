@@ -2,8 +2,8 @@
 from bs4 import BeautifulSoup
 import urllib2
 
-input="Replace this with the file name"
-ext="Replace this with the extension"
+input="Best Time To Buy And Sell Stock II"
+ext=".java"
 
 
 def filenameConverter(string):
@@ -29,9 +29,6 @@ elif ext == ".java":
 else:
     print "File formal does not exist"
 
-
-print "Filename:" + filename
-print "Folder: " + folder
 
 questionName=input.lower().replace(" ", "-")
 print questionName
